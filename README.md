@@ -30,6 +30,13 @@ To deploy this project import
 
 
 ## Screenshots
+![Screenshot (2)](https://user-images.githubusercontent.com/60836876/148100149-3942ba9e-1e04-47f7-b000-23c50f59cc0e.png)
 
+![Screenshot (3)](https://user-images.githubusercontent.com/60836876/148100152-c3981b71-acac-4993-a3f1-f169ce460161.png)
 
+![Screenshot (4)](https://user-images.githubusercontent.com/60836876/148100155-66ed3001-2a90-49f4-996a-1109b1ca345c.png)
+
+![Screenshot (5)](https://user-images.githubusercontent.com/60836876/148100156-ac8e91ce-bbe5-41dc-be5e-81d6e4c1df2f.png)
+
+![Screenshot (6)](https://user-images.githubusercontent.com/60836876/148100158-50bf2816-0e87-434e-871c-c81af77abf7d.png)
 
